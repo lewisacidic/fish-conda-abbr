@@ -1,4 +1,4 @@
-set -g __lewisacidic_fish_conda_abbr_version 0.0.1
+set -g __lewisacidic_fish_conda_abbr_version 0.1.0
 
 abbr c 'conda'
 
